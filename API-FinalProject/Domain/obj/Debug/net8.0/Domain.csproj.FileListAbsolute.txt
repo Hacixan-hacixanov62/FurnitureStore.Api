@@ -1,0 +1,38 @@
+C:\Users\acer\OneDrive\İş masası\Project-API\API-FinalProject\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\acer\OneDrive\İş masası\Project-API\API-FinalProject\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\acer\OneDrive\İş masası\Project-API\API-FinalProject\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\acer\OneDrive\İş masası\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\İş masası\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\İş masası\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\İş masası\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\acer\OneDrive\İş masası\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\İş masası\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\acer\OneDrive\İş masası\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\acer\OneDrive\İş masası\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\acer\OneDrive\İş masası\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\user\Desktop\Aytac\Final\Project-API\API-FinalProject\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\user\Desktop\Aytac\Final\Project-API\API-FinalProject\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\user\Desktop\Aytac\Final\Project-API\API-FinalProject\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\user\Desktop\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\user\Desktop\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\user\Desktop\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\user\Desktop\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\user\Desktop\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\user\Desktop\Api Consume\Aytac\Final\Project-API\API-FinalProject\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\user\Desktop\Api Consume\Aytac\Final\Project-API\API-FinalProject\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\user\Desktop\Api Consume\Aytac\Final\Project-API\API-FinalProject\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\user\Desktop\Api Consume\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Api Consume\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Api Consume\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Api Consume\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\Api Consume\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Api Consume\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\user\Desktop\Api Consume\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\user\Desktop\Api Consume\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\user\Desktop\Api Consume\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\user\Desktop\Api Consume\Aytac\Final\Project-API\API-FinalProject\Domain\obj\Debug\net8.0\ref\Domain.dll

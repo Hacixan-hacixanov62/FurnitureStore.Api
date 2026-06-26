@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34A14011-F1DE-4A99-842C-9DB1BC72BD61}|Service\\Service.csproj|c:\\users\\user\\desktop\\api consume\\aytac\\final\\project-api\\api-finalproject\\service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A14011-F1DE-4A99-842C-9DB1BC72BD61}|Service\\Service.csproj|solutionrelative:service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE273D2-435B-4E94-A004-21FF8F4188F4}|API-FinalProject\\API-FinalProject.csproj|c:\\users\\user\\desktop\\api consume\\aytac\\final\\project-api\\api-finalproject\\api-finalproject\\controllers\\client\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE273D2-435B-4E94-A004-21FF8F4188F4}|API-FinalProject\\API-FinalProject.csproj|solutionrelative:api-finalproject\\controllers\\client\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE273D2-435B-4E94-A004-21FF8F4188F4}|API-FinalProject\\API-FinalProject.csproj|c:\\users\\user\\desktop\\api consume\\aytac\\final\\project-api\\api-finalproject\\api-finalproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFE273D2-435B-4E94-A004-21FF8F4188F4}|API-FinalProject\\API-FinalProject.csproj|solutionrelative:api-finalproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE273D2-435B-4E94-A004-21FF8F4188F4}|API-FinalProject\\API-FinalProject.csproj|c:\\users\\user\\desktop\\api consume\\aytac\\final\\project-api\\api-finalproject\\api-finalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFE273D2-435B-4E94-A004-21FF8F4188F4}|API-FinalProject\\API-FinalProject.csproj|solutionrelative:api-finalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE273D2-435B-4E94-A004-21FF8F4188F4}|API-FinalProject\\API-FinalProject.csproj|c:\\users\\user\\desktop\\api consume\\aytac\\final\\project-api\\api-finalproject\\api-finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE273D2-435B-4E94-A004-21FF8F4188F4}|API-FinalProject\\API-FinalProject.csproj|solutionrelative:api-finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE273D2-435B-4E94-A004-21FF8F4188F4}|API-FinalProject\\API-FinalProject.csproj|c:\\users\\user\\desktop\\api consume\\aytac\\final\\project-api\\api-finalproject\\api-finalproject\\controllers\\client\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE273D2-435B-4E94-A004-21FF8F4188F4}|API-FinalProject\\API-FinalProject.csproj|solutionrelative:api-finalproject\\controllers\\client\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE273D2-435B-4E94-A004-21FF8F4188F4}|API-FinalProject\\API-FinalProject.csproj|c:\\users\\user\\desktop\\api consume\\aytac\\final\\project-api\\api-finalproject\\api-finalproject\\controllers\\admin\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE273D2-435B-4E94-A004-21FF8F4188F4}|API-FinalProject\\API-FinalProject.csproj|solutionrelative:api-finalproject\\controllers\\admin\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A14011-F1DE-4A99-842C-9DB1BC72BD61}|Service\\Service.csproj|c:\\users\\user\\desktop\\api consume\\aytac\\final\\project-api\\api-finalproject\\service\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A14011-F1DE-4A99-842C-9DB1BC72BD61}|Service\\Service.csproj|solutionrelative:service\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF841F4-6CA0-46A5-895F-36F5815446E1}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\api consume\\aytac\\final\\project-api\\api-finalproject\\repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF841F4-6CA0-46A5-895F-36F5815446E1}|Repository\\Repository.csproj|solutionrelative:repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE273D2-435B-4E94-A004-21FF8F4188F4}|API-FinalProject\\API-FinalProject.csproj|c:\\users\\user\\desktop\\api consume\\aytac\\final\\project-api\\api-finalproject\\api-finalproject\\controllers\\client\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE273D2-435B-4E94-A004-21FF8F4188F4}|API-FinalProject\\API-FinalProject.csproj|solutionrelative:api-finalproject\\controllers\\client\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A14011-F1DE-4A99-842C-9DB1BC72BD61}|Service\\Service.csproj|c:\\users\\user\\desktop\\api consume\\aytac\\final\\project-api\\api-finalproject\\service\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A14011-F1DE-4A99-842C-9DB1BC72BD61}|Service\\Service.csproj|solutionrelative:service\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE273D2-435B-4E94-A004-21FF8F4188F4}|API-FinalProject\\API-FinalProject.csproj|c:\\users\\user\\desktop\\api consume\\aytac\\final\\project-api\\api-finalproject\\api-finalproject\\controllers\\admin\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE273D2-435B-4E94-A004-21FF8F4188F4}|API-FinalProject\\API-FinalProject.csproj|solutionrelative:api-finalproject\\controllers\\admin\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\API-FinalProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API-FinalProject\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\API-FinalProject\\appsettings.Development.json",
+              "RelativeToolTip": "API-FinalProject\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-26T19:41:53.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\Service\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\Service\\Services\\AccountService.cs",
+              "RelativeToolTip": "Service\\Services\\AccountService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA8wJwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:26:52.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\API-FinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "API-FinalProject\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\API-FinalProject\\Program.cs",
+              "RelativeToolTip": "API-FinalProject\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:30:18.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\API-FinalProject\\appsettings.json",
+              "RelativeDocumentMoniker": "API-FinalProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\API-FinalProject\\appsettings.json",
+              "RelativeToolTip": "API-FinalProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-26T17:19:40.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\API-FinalProject\\Controllers\\Client\\AccountController.cs",
+              "RelativeDocumentMoniker": "API-FinalProject\\Controllers\\Client\\AccountController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\API-FinalProject\\Controllers\\Client\\AccountController.cs",
+              "RelativeToolTip": "API-FinalProject\\Controllers\\Client\\AccountController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:11:28.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\API-FinalProject\\Controllers\\Client\\SliderController.cs",
+              "RelativeDocumentMoniker": "API-FinalProject\\Controllers\\Client\\SliderController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\API-FinalProject\\Controllers\\Client\\SliderController.cs",
+              "RelativeToolTip": "API-FinalProject\\Controllers\\Client\\SliderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:10:24.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\API-FinalProject\\Controllers\\Admin\\SliderController.cs",
+              "RelativeDocumentMoniker": "API-FinalProject\\Controllers\\Admin\\SliderController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\API-FinalProject\\Controllers\\Admin\\SliderController.cs",
+              "RelativeToolTip": "API-FinalProject\\Controllers\\Admin\\SliderController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:10:19.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\Service\\Services\\SliderService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\SliderService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\Service\\Services\\SliderService.cs",
+              "RelativeToolTip": "Service\\Services\\SliderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:57:52.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\Repository\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\Repository\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Repository\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:31:18.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\Service\\Services\\BasketService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\BasketService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\Service\\Services\\BasketService.cs",
+              "RelativeToolTip": "Service\\Services\\BasketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:33:07.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\API-FinalProject\\Controllers\\Client\\BasketController.cs",
+              "RelativeDocumentMoniker": "API-FinalProject\\Controllers\\Client\\BasketController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\API-FinalProject\\Controllers\\Client\\BasketController.cs",
+              "RelativeToolTip": "API-FinalProject\\Controllers\\Client\\BasketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:32:52.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\API-FinalProject\\Controllers\\Admin\\ProductController.cs",
+              "RelativeDocumentMoniker": "API-FinalProject\\Controllers\\Admin\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Api Consume\\Aytac\\Final\\Project-API\\API-FinalProject\\API-FinalProject\\Controllers\\Admin\\ProductController.cs",
+              "RelativeToolTip": "API-FinalProject\\Controllers\\Admin\\ProductController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T21:46:20.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

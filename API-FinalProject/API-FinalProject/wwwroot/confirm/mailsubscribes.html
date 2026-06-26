@@ -1,0 +1,289 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Product Notification - JoiFurn</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', Arial, sans-serif;
+            background: linear-gradient(135deg, #f8f6f0 0%, #e8e2d4 100%);
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+        .email-container {
+            max-width: 650px;
+            margin: 0 auto;
+            background: #ffffff;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        }
+
+        .header {
+            background: linear-gradient(135deg, #2c1810 0%, #4a2c1a 100%);
+            padding: 40px 30px;
+            text-align: center;
+            position: relative;
+        }
+
+            .header::before {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grain" width="100" height="100" patternUnits="userSpaceOnUse"><circle cx="25" cy="25" r="1" fill="%23ffffff" opacity="0.1"/><circle cx="75" cy="75" r="1" fill="%23ffffff" opacity="0.1"/><circle cx="50" cy="10" r="0.5" fill="%23ffffff" opacity="0.1"/><circle cx="10" cy="60" r="0.5" fill="%23ffffff" opacity="0.1"/><circle cx="90" cy="40" r="0.5" fill="%23ffffff" opacity="0.1"/></pattern></defs><rect width="100" height="100" fill="url(%23grain)"/></svg>');
+            }
+
+        .logo {
+            font-family: 'Playfair Display', serif;
+            font-size: 32px;
+            font-weight: 700;
+            color: #d4af37;
+            margin-bottom: 8px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .tagline {
+            color: #e8dcc0;
+            font-size: 14px;
+            font-weight: 300;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            position: relative;
+            z-index: 1;
+        }
+
+        .content {
+            padding: 50px 40px;
+        }
+
+        .announcement-badge {
+            display: inline-block;
+            background: linear-gradient(135deg, #d4af37 0%, #f4d03f 100%);
+            color: #2c1810;
+            padding: 8px 20px;
+            border-radius: 25px;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 25px;
+        }
+
+        .main-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 36px;
+            font-weight: 600;
+            color: #2c1810;
+            margin-bottom: 20px;
+            line-height: 1.2;
+        }
+
+        .greeting {
+            font-size: 16px;
+            color: #5a4a3a;
+            margin-bottom: 25px;
+        }
+
+        .product-highlight {
+            background: linear-gradient(135deg, #faf8f3 0%, #f0ede5 100%);
+            border-left: 4px solid #d4af37;
+            padding: 25px;
+            border-radius: 8px;
+            margin: 30px 0;
+        }
+
+        .product-name {
+            font-family: 'Playfair Display', serif;
+            font-size: 24px;
+            font-weight: 600;
+            color: #2c1810;
+            margin-bottom: 10px;
+        }
+
+        .product-description {
+            color: #6b5b4a;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
+        .cta-section {
+            text-align: center;
+            margin: 40px 0;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background: linear-gradient(135deg, #2c1810 0%, #4a2c1a 100%);
+            color: #ffffff;
+            text-decoration: none;
+            padding: 16px 40px;
+            border-radius: 50px;
+            font-weight: 600;
+            font-size: 16px;
+            letter-spacing: 0.5px;
+            transition: all 0.3s ease;
+            box-shadow: 0 8px 25px rgba(44, 24, 16, 0.3);
+            position: relative;
+            overflow: hidden;
+        }
+
+            .cta-button::before {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: -100%;
+                width: 100%;
+                height: 100%;
+                background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+                transition: left 0.5s;
+            }
+
+            .cta-button:hover::before {
+                left: 100%;
+            }
+
+            .cta-button:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 12px 35px rgba(44, 24, 16, 0.4);
+            }
+
+        .divider {
+            height: 1px;
+            background: linear-gradient(90deg, transparent, #d4af37, transparent);
+            margin: 40px 0;
+        }
+
+        .footer {
+            background: #faf8f3;
+            padding: 30px 40px;
+            text-align: center;
+            border-top: 1px solid #e8dcc0;
+        }
+
+        .footer-text {
+            color: #8a7a6a;
+            font-size: 13px;
+            line-height: 1.5;
+        }
+
+        .social-links {
+            margin-top: 20px;
+        }
+
+        .social-link {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            background: #d4af37;
+            border-radius: 50%;
+            margin: 0 8px;
+            line-height: 40px;
+            text-align: center;
+            color: #2c1810;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+            .social-link:hover {
+                background: #2c1810;
+                color: #d4af37;
+                transform: translateY(-2px);
+            }
+
+        .furniture-icon {
+            font-size: 24px;
+            color: #d4af37;
+            margin-right: 10px;
+        }
+
+        @media (max-width: 600px) {
+            .email-container {
+                margin: 10px;
+                border-radius: 12px;
+            }
+
+            .content {
+                padding: 30px 25px;
+            }
+
+            .header {
+                padding: 30px 25px;
+            }
+
+            .main-title {
+                font-size: 28px;
+            }
+
+            .logo {
+                font-size: 28px;
+            }
+
+            .cta-button {
+                padding: 14px 30px;
+                font-size: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="email-container">
+        <!-- Header -->
+        <div class="header">
+            <div class="logo">🛋️ JoiFurn</div>
+            <div class="tagline">Premium Furniture Collection</div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="content">
+            <div class="announcement-badge">New Arrival</div>
+
+            <h1 class="main-title">Something Beautiful Has Arrived</h1>
+
+            <p class="greeting">Hello there,</p>
+
+            <p style="color: #5a4a3a; font-size: 16px; margin-bottom: 25px;">
+                We're thrilled to share something special with you. Our latest addition to the JoiFurn collection is here, and we couldn't be more excited to introduce it to your home.
+            </p>
+
+            <div class="product-highlight">
+                <div class="product-name">{{ProductName}}</div>
+                <div class="product-description">
+                    Crafted with attention to detail and designed to transform your living space into a sanctuary of comfort and style. This piece embodies the perfect blend of functionality and elegance that JoiFurn is known for.
+                </div>
+            </div>
+
+            <p style="color: #5a4a3a; font-size: 16px; margin-bottom: 30px;">
+                Don't let this opportunity slip away. Our new arrivals tend to find their perfect homes quickly, and we'd love for this one to find its way to yours.
+            </p>
+
+            <div class="cta-section">
+                <a href="{{ProductLink}}" class="cta-button">
+                    Discover This Piece
+                </a>
+            </div>
+
+            <div class="divider"></div>
+
+            <p style="color: #6b5b4a; font-size: 14px; text-align: center; font-style: italic;">
+                "Every piece tells a story. Let this one tell yours."
+            </p>
+        </div>
+
+    </div>
+</body>
+</html>
